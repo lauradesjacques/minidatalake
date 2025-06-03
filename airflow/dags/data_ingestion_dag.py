@@ -80,4 +80,5 @@ youtube_task = PythonOperator(
 # Set task dependencies
 # We can run them in parallel since they're independent
 corona_task >> youtube_task  # Run YouTube ingestion after COVID-19 ingestion
-# If you want them to run in parallel, remove the >> operator 
+# If you want them to run in parallel, remove the >> operator
+
