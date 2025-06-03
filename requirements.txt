@@ -1,0 +1,10 @@
+duckdb>=0.8.1
+pandas>=1.5.3
+streamlit>=1.22.0
+plotly>=5.14.1
+numpy>=1.24.3
+python-dateutil>=2.8.2
+pytz>=2023.3
+six>=1.16.0
+typing-extensions>=4.5.0
+tzdata>=2023.3 
